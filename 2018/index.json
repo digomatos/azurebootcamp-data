@@ -1,0 +1,10 @@
+{
+  "Locations": [
+    { 
+        "Name":"Porto Alegre",
+        "Folder":"Porto Alegre",
+        "WebsiteUrl":"http://gabpoa.azurewebsites.net", 
+        "Show": true
+    }
+  ]
+}
