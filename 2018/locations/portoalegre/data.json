@@ -3,15 +3,15 @@
     "Date": "21-04-2018"
   },
   "Location": {
-    "Name": "Singapore",
+    "Name": "Porto Alegre",
     "Latitude": 1.282387,
     "Longitude": 103.850243,
-    "Address": "One Marina Boulevard, Singapore"
+    "Address": "PUCRS"
   },
 
   "Callout": {
     "Text": "Inscreva-se para este evento!",
-    "Link": "http://gablisboa2018.eventbrite.com/",
+    "Link": "https://www.eventbrite.com/e/porto-alegre-global-azure-bootcamp-tickets-38343214587",
     "Type": "default"
   },
   "Callspeakers": {
@@ -21,9 +21,9 @@
   },  
   "Organizers": [
     {
-      "Name": "Ricardo Cabral",
+      "Name": "Diego Matos",
       "Social": {
-        "Email": "rramoscabral@gmail.com"
+        "Email": "digomatos@msn.com"
       }
     }
   ],
