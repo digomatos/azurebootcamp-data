@@ -28,7 +28,15 @@
     }
   ],
   "Sponsors": [
-   
+    {
+
+      "Name": "Microsoft",
+
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/demo/where.png",
+
+      "Link": "http://www.microsoft.com"
+
+    }, 
   ],
   "Prizes": [
       {
