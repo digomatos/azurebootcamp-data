@@ -25,16 +25,6 @@
     }
   ],
   "Sponsors": [
-            {
-      "Name": "MSCop",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/logo_MSCop_new.png",
-      "Link": "http://www.dell.com.br"
-     },
-    {
-      "Name": "CI",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ciok.png",
-      "Link": "http://centrodeinovacao.org.br"
-     },
     {
       "Name": "Cloud2Go",
       "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/cloud2go.png",
@@ -45,6 +35,16 @@
       "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ngx.png",
       "Link": "http://www.ngxit.com.br"
        },
+            {
+      "Name": "MSCop",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/logo_MSCop_new.png",
+      "Link": "http://www.dell.com.br"
+     },
+    {
+      "Name": "CI",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ciok.png",
+      "Link": "http://centrodeinovacao.org.br"
+     },
       ],
   "Prizes": [
       {
