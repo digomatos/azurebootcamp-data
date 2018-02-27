@@ -1,20 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @digomatos
- Sign out
-0
-0 0 digomatos/azurebootcamp-data
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-azurebootcamp-data/2018/locations/portoalegre/data.json
-90e500d  13 minutes ago
-@digomatos digomatos Update data.json
-     
-75 lines (72 sloc)  1.88 KB
 {
   "Event": {
     "Date": "21-04-2018"
