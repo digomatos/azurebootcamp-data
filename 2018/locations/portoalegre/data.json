@@ -63,9 +63,24 @@
       "Name": "Em Breve",
       "Sessions": [
         {
-          "SessionId": "",
-          "Time": "Em Breve",
-          "Title": "Em Breve"
+
+          "Time": "8:00 AM - 8:45 AM",
+
+          "Title": "Em Breve",
+
+          "Speaker": {
+
+            "Name": "Em Breve",
+
+            "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
+
+            "Description": "Em Breve",
+
+            "Social": {
+
+              "Twitter": "www.twitter.com/",
+
+              "Website": ""
         }
       ]
     }
