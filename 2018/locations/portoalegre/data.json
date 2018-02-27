@@ -55,16 +55,7 @@
       "Link": "http://www.dell.com.br"
 
     },
-        {
-
-      "Name": "Centro de Inovação",
-
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ep.png",
-
-      "Link": "http://www.pucrs.br/politecnica/"
-
-    },
-     ],
+           ],
   "Prizes": [
       {
       "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
