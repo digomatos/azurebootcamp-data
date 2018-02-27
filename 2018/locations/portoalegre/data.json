@@ -42,7 +42,7 @@
      },
     {
       "Name": "CI",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ci3.png",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ci4.png",
       "Link": "http://centrodeinovacao.org.br"
      },
       ],
@@ -60,9 +60,28 @@
         {
           "SessionId": "",
           "Time": "Em Breve",
-          "Title": "Em Breve"
-        }
-      ]
+          "Title": "Em Breve",
+
+          "Speaker": {
+
+            "Name": "Em breve",
+
+            "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
+
+            "Description": "Sobre o palestrante",
+
+            "Social": {
+
+              "Twitter": "www.twitter.com/",
+
+              "Website": "www.site.com.br"
+
+            }
+
+          }
+
+        },
+     ]
     }
   ]
 }
