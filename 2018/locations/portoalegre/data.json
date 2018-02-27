@@ -1,4 +1,4 @@
-﻿{
+{
   "Event": {
     "Date": "21-04-2018"
   },
@@ -15,9 +15,6 @@
     "Type": "default"
   },
   "Callspeakers": {
-    "Text": "Call for papers!",
-    "Link": "https://sessionize.com/GABLisboa2018/",
-    "Type": "default"
   },  
   "Organizers": [
     {
@@ -28,7 +25,32 @@
     }
   ],
   "Sponsors": [
-     ],
+        {
+      "Name": "Cloud2Go",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/cloud2go.png",
+      "Link": "http://www.cloud2go.com.br"
+          },
+    {
+      "Name": "NGXit",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ngx.png",
+      "Link": "http://www.ngxit.com.br"
+       },
+    {
+      "Name": "MSCop",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/logo_MSCop_new.png",
+      "Link": "http://www.dell.com.br"
+     },
+    {
+      "Name": "CI",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ci.png",
+      "Link": "http://centrodeinovacao.org.br"
+     },
+    {
+      "Name": "Escola Politecnica",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ep.png",
+      "Link": "http://www.pucrs.br/politecnica/"
+    },
+      ],
   "Prizes": [
       {
       "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
@@ -38,15 +60,14 @@
   ],
 "Tracks": [
     {
-      "Name": "",
+      "Name": "Em Breve",
       "Sessions": [
         {
           "SessionId": "",
-          "Time": "",
-          "Title": ""
+          "Time": "Em Breve",
+          "Title": "Em Breve"
         }
       ]
     }
   ]
 }
-
