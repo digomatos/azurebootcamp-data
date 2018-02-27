@@ -28,6 +28,51 @@
     }
   ],
   "Sponsors": [
+     {
+
+      "Name": "Cloud2Go",
+
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/cloud2go.png",
+
+      "Link": "http://www.cloud2go.com.br"
+
+    },
+    {
+
+      "Name": "NGXit",
+
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ngx.png",
+
+      "Link": "http://www.ngxit.com.br"
+
+    },
+    {
+
+      "Name": "MSCop",
+
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/logo_MSCop_new.png",
+
+      "Link": "http://www.dell.com.br"
+
+    },
+    {
+
+      "Name": "entro de Inovação",
+
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/cloud2go.png",
+
+      "Link": "http://www.centrodeinovacao.org.br"
+
+    },
+    {
+
+      "Name": "Centro de Inovação",
+
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ep.png",
+
+      "Link": "http://www.pucrs.br/politecnica/"
+
+    },
      ],
   "Prizes": [
       {
