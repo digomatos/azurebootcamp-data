@@ -42,14 +42,9 @@
      },
     {
       "Name": "CI",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ci.png",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ci2.png",
       "Link": "http://centrodeinovacao.org.br"
      },
-    {
-      "Name": "Escola Politecnica",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ep.png",
-      "Link": "http://www.pucrs.br/politecnica/"
-    },
       ],
   "Prizes": [
       {
