@@ -15,9 +15,6 @@
     "Type": "default"
   },
   "Callspeakers": {
-    "Text": "Call for papers!",
-    "Link": "https://sessionize.com/GABLisboa2018/",
-    "Type": "default"
   },  
   "Organizers": [
     {
@@ -28,11 +25,6 @@
     }
   ],
   "Sponsors": [
-    {
-      "Name": "Cloud2Go",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/cloud2go.png",
-      "Link": "http://www.cloud2go.com.br"
-    }, 
   ],
   "Prizes": [
       {
