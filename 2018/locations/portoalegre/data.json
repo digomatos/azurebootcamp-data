@@ -41,6 +41,11 @@
       "Link": "http://www.dell.com.br"
      },
     {
+      "Name": "MVP",
+      "Image": "http://www.windowsteam.com.br/wp-content/uploads/2016/03/MVP_Logo_Horizontal_Preferred_Cyan300_RGB_300ppi-e1457527310660.png",
+      "Link": "https://mvp.microsoft.com/pt-br/"
+     },
+    {
       "Name": "CI",
       "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ciok.png",
       "Link": "http://centrodeinovacao.org.br"
