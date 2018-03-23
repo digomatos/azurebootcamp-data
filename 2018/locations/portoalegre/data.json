@@ -60,7 +60,7 @@
   ],
 "Tracks": [
     {
-      "Name": "Auditório Global",
+      "Name": "Auditório Global - Tecnopuc",
       "Sessions": [
         {
           "SessionId": "",
@@ -69,15 +69,15 @@
 
           "Speaker": {
 
-            "Name": "Em breve",
+            "Name": "Vinicius Assis",
 
-            "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/assis.jpg",
 
-            "Description": "Sobre o palestrante",
+            "Description": "Especialista de produtos na Dell EMC, membro do PMI-MG e fundador do grupo CAPM-Brasil, trabalha com projetos de datacenter que envolvem plataformas hiperconvegentes, Big Data, HCP e soluções de alianças Dell. Com mais 20 anos de experiência direta em TI é pós-graduado especialista em Ciência da Informação pela UFMG e bacharel em Sistemas de Informação pela União de Negócios e Administração em Belo Horizonte. Possui certificações de empresas como Microsoft, Dell, VMware e HP.",
 
             "Social": {
 
-              "Twitter": "www.twitter.com/",
+              "Twitter": "http://www.twitter.com/",
 
             }
 
