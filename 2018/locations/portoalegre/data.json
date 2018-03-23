@@ -146,6 +146,7 @@
           "Speaker": {
 
             "Name": "Diego Matos",
+            "Name": "Diego Matos",
             
             "Organization": "Grupo NGX (Cloud2Go)",
             
@@ -162,31 +163,7 @@
           }
 
         },
-                                        {
-          "SessionId": "DATA05",
-          "Time": "Em Breve04",
-          "Title": "Azure 360",
-
-          "Speaker": {
-
-            "Name": "Rafael Felipe",
-            
-            "Organization": "Dell / MVP",
-            
-            "ImageUrl": "http://www.windowsteam.com.br/wp-content/uploads/2016/03/MVP_Logo_Horizontal_Preferred_Cyan300_RGB_300ppi-e1457527310660.png",
-
-            "Description": "Entusiasta do conhecimento compartilhado, MVP da Microsoft, IT Expert em virtualização e Cloud Computing. Atua como Principal SW Engineer na Dell e é responsável por desenvolver e coordenar novas iniciativas de soluções de virtualização e Cloud Computing para a Dell IT. Bacharel em Adm de Empresas com Gestão de TI e pós graduado em gestão de equipe e liderança pela PUCRS. Rafael é líder da MSCop (Microsoft Community of Practices) na Dell.",
-
-"Social": { 
-  
-  "Twitter": "www.twitter.com/rfelipesilva",
-
-            }
-
-          }
-
-        },
-        
+       
      ]
     }
   ]
