@@ -63,7 +63,7 @@
       "Name": "Auditório Global - Tecnopuc",
       "Sessions": [
         {
-          "SessionId": "",
+          "SessionId": "DATA01",
           "Time": "Em Breve",
           "Title": "Hiperconvergência com Dell EMC",
 
@@ -84,7 +84,7 @@
         },
         
                 {
-          "SessionId": "",
+          "SessionId": "DATA02",
           "Time": "Em Breve01",
           "Title": "Por trás do Azure - Tecnologia de Storage dos Data Centers da Microsoft",
 
@@ -107,7 +107,7 @@
 
         },
                         {
-          "SessionId": "",
+          "SessionId": "DATA03",
           "Time": "Em Breve02",
           "Title": "Introdução à automação com Azure Automation",
 
