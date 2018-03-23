@@ -136,29 +136,7 @@
           }
 
         },
-                                {
-          "SessionId": "DATA04",
-          "Time": "Em Breve02",
-          "Title": "Azure 360",
 
-          "Speaker": {
-
-            "Name": "Diego Matos",
-            
-            "Organization": "Grupo NGX",
-            
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/diego.jpg",
-
-            "Description": "Trabalha a 10 anos com tecnologias Microsoft, especialista em produtos da família System Center, Azure e Office 365, possuindo diversas certificações entre elas MCSE em Private Cloud, Messaging, Productivity e Cloud Platform and Infrastructure. Atua hoje como Cloud Specialist no Grupo NGX, focado na entrega de soluções como Azure e Office365 para clientes de grande porte. A mais de 5 anos ativo na comunidade Microsoft, como participante, palestrante, contribuinte apoiando na organização de eventos",
-
-            "Social": {
-              
-              "Twitter": "www.twitter.com/digomatos",
-
-            }
-
-            }
-       },
      ]
     }
   ]
