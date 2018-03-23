@@ -63,6 +63,11 @@
       "Name": "Auditório Global - Tecnopuc",
       "Sessions": [
         {
+          "SessionId": "Common1",
+          "Time": "9:00 AM - 8:15 AM",
+          "Title": "Boas Vindas"
+        },
+        {
           "SessionId": "DATA01",
           "Time": "Em Breve",
           "Title": "Hiperconvergência com Dell EMC",
