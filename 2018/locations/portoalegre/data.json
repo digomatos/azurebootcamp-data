@@ -75,6 +75,8 @@
           "Speaker": {
 
             "Name": "Vinicius Assis",
+            
+            "Organization": "Dell",
 
             "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/assis.jpg",
 
@@ -96,7 +98,7 @@
           "Speaker": {
 
             "Name": "Erik Filippini",
-            
+            "Organization": "Dell",
             "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/erik.jpg",
 
             "Description": "Especialista em infraestrutara de TI com 8 anos de experiência na área e 5 focados em soluções de data centers para grandes empresas.Atualmente exerce a função de Engenheiro Sênior na Dell EMC, prestando suporte à soluções de data centers.Graduado em redes de computadores, MBA em gestão de projetos e inovação e com certificações: MCSA 2012/2016, MCSE x2, VCP-DCV x2, ITIL V3, entre outras.",
@@ -120,13 +122,56 @@
 
             "Name": "Thiago Gabriel",
             
-
+            "Organization": "Dell",
+            
             "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/thiagog.jpg",
 
             "Description": "Profissional de TI especialista em infraestrutura com interesse em tecnologias de ponta e automação. Trabalha com grandes ambientes corporativos a mais de 7 anos. Entusiasta da Computação na Nuvem e de como pode ser utilizada para melhorar processos de negócio e fornecer recursos de TI de maneira simplificada para todos os usuários. Sempre procura novas maneiras de automatizar e monitorar os ambientes que suporta, mantendo a alta disponibilidade para seus clientes.",
 
             "Social": {
 
+
+            }
+
+          }
+
+        },
+                                {
+          "SessionId": "DATA04",
+          "Time": "Em Breve02",
+          "Title": "Azure 360",
+
+          "Speaker": {
+
+            "Name": "Diego Matos",
+            
+            "Organization": "Grupo NGX",
+            
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/diego.jpg",
+
+            "Description": "Trabalha a 10 anos com tecnologias Microsoft, especialista em produtos da família System Center, Azure e Office 365, possuindo diversas certificações entre elas MCSE em Private Cloud, Messaging, Productivity e Cloud Platform and Infrastructure. Atua hoje como Cloud Specialist no Grupo NGX, focado na entrega de soluções como Azure e Office365 para clientes de grande porte. A mais de 5 anos ativo na comunidade Microsoft, como participante, palestrante, contribuinte apoiando na organização de eventos",
+
+            "Social": {
+              
+              "Twitter": "www.twitter.com/digomatos",
+
+            }
+
+          }
+                                  
+            "Speaker": {
+
+            "Name": "Rafel Felipe",
+            
+            "Organization": "Dell / MVP",
+            
+            "ImageUrl": "http://www.windowsteam.com.br/wp-content/uploads/2016/03/MVP_Logo_Horizontal_Preferred_Cyan300_RGB_300ppi-e1457527310660.png",
+
+            "Description": "Entusiasta do conhecimento compartilhado, MVP da Microsoft, IT Expert em virtualização e Cloud Computing. Atua como Principal SW Engineer na Dell e é responsável por desenvolver e coordenar novas iniciativas de soluções de virtualização e Cloud Computing para a Dell IT. Bacharel em Adm de Empresas com Gestão de TI e pós graduado em gestão de equipe e liderança pela PUCRS. Rafael é líder da MSCop (Microsoft Community of Practices) na Dell.",
+
+            "Social": {
+              
+              "Twitter": "www.twitter.com/rfelipesilva",
 
             }
 
