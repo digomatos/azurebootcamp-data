@@ -65,7 +65,7 @@
         {
           "SessionId": "",
           "Time": "Em Breve",
-          "Title": "Hiperconvergência com Dell EMC.",
+          "Title": "Hiperconvergência com Dell EMC",
 
           "Speaker": {
 
@@ -92,7 +92,6 @@
 
             "Name": "Erik Filippini",
             
-            "Organization": "Dell",
 
             "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/erik.jpg",
 
@@ -111,21 +110,18 @@
                         {
           "SessionId": "",
           "Time": "Em Breve",
-          "Title": "Por trás do Azure - Tecnologia de Storage dos Data Centers da Microsoft",
+          "Title": "Introdução à automação com Azure Automation",
 
           "Speaker": {
 
             "Name": "Erik Filippini",
             
-            "Organization": "Dell",
 
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/erik.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/thiagog.jpg",
 
-            "Description": "Especialista em infraestrutara de TI com 8 anos de experiência na área e 5 focados em soluções de data centers para grandes empresas.Atualmente exerce a função de Engenheiro Sênior na Dell EMC, prestando suporte à soluções de data centers.Graduado em redes de computadores, MBA em gestão de projetos e inovação e com certificações: MCSA 2012/2016, MCSE x2, VCP-DCV x2, ITIL V3, entre outras.",
+            "Description": "Profissional de TI especialista em infraestrutura com interesse em tecnologias de ponta e automação. Trabalha com grandes ambientes corporativos a mais de 7 anos. Entusiasta da Computação na Nuvem e de como pode ser utilizada para melhorar processos de negócio e fornecer recursos de TI de maneira simplificada para todos os usuários. Sempre procura novas maneiras de automatizar e monitorar os ambientes que suporta, mantendo a alta disponibilidade para seus clientes.",
 
             "Social": {
-
-              "Twitter": "www.twitter.com/erik_filippini",
 
 
             }
