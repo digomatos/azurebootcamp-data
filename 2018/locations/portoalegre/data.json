@@ -146,7 +146,6 @@
           "Speaker": {
 
             "Name": "Diego Matos",
-            "Name2": "Diego Matos2",
             
             "Organization": "Grupo NGX (Cloud2Go)",
             
@@ -157,14 +156,12 @@
 "Social": { 
   
   "Twitter": "www.twitter.com/digomatos",
-  
-              }
-            
+
+            }
 
           }
 
-        },
-       
+        },        
      ]
     }
   ]
