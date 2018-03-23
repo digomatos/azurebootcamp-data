@@ -85,14 +85,13 @@
         
                 {
           "SessionId": "",
-          "Time": "Em Breve",
+          "Time": "Em Breve01",
           "Title": "Por trás do Azure - Tecnologia de Storage dos Data Centers da Microsoft",
 
           "Speaker": {
 
             "Name": "Erik Filippini",
             
-
             "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/erik.jpg",
 
             "Description": "Especialista em infraestrutara de TI com 8 anos de experiência na área e 5 focados em soluções de data centers para grandes empresas.Atualmente exerce a função de Engenheiro Sênior na Dell EMC, prestando suporte à soluções de data centers.Graduado em redes de computadores, MBA em gestão de projetos e inovação e com certificações: MCSA 2012/2016, MCSE x2, VCP-DCV x2, ITIL V3, entre outras.",
@@ -109,12 +108,12 @@
         },
                         {
           "SessionId": "",
-          "Time": "Em Breve",
+          "Time": "Em Breve02",
           "Title": "Introdução à automação com Azure Automation",
 
           "Speaker": {
 
-            "Name": "Erik Filippini",
+            "Name": "Thiago Gabrieç",
             
 
             "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/thiagog.jpg",
