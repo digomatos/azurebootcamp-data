@@ -37,12 +37,12 @@
        },
             {
       "Name": "MSCop",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/mvp.png",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/dell.png",
       "Link": "http://www.dell.com.br"
      },
     {
       "Name": "MVP",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/dell.png",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/mvp.png",
       "Link": "https://mvp.microsoft.com/pt-br/"
      },
     {
