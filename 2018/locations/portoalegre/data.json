@@ -191,6 +191,28 @@
           }
 
         },
+        {
+          "SessionId": "DATA06",
+          "Time": "Em Breve05",
+          "Title": "Praticidade de gerenciamento e controle de recursos diretamente na nuvem.",
+
+          "Speaker": {
+
+            "Name": "Marcus Vinícius Bittencourt",
+            
+            "Organization": "Boticário / MVP",
+            
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/marcus.jpg",
+
+            "Description": "MVP Data Platform e PASS Regional, mentor responsável pelos grupos de usuários no Brasil, onde também é Pass Group Leader do SQL Server RS, especializado em infraestrutura, trabalha há mais de 10 anos com SQL Server desde a versão 2000. Mestrando em Computação Aplicada na UTFPR. Bacharel em Sistemas de Informação pela Universidade de Caxias do Sul, DBA SQL Server no Grupo Boticário.",
+
+"Social": { 
+
+            }
+
+          }
+
+        },
         
      ]
     }
