@@ -63,35 +63,50 @@
       "Name": "Auditório Global - Tecnopuc",
       "Sessions": [
         {
+          "SessionId": "",
           "Time": "Em Breve",
-          "Title": "Hiperconvergência com Dell EMC",
+          "Title": "Em Breve",
 
           "Speaker": {
 
-            "Name": "Vinicius Assis",
+            "Name": "Em breve",
 
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/assis.jpg",
+            "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
 
-            "Description": "Especialista de produtos na Dell EMC, membro do PMI-MG e fundador do grupo CAPM-Brasil, trabalha com projetos de datacenter que envolvem plataformas hiperconvegentes, Big Data, HCP e soluções de alianças Dell. Com mais 20 anos de experiência direta em TI é pós-graduado especialista em Ciência da Informação pela UFMG e bacharel em Sistemas de Informação pela União de Negócios e Administração em Belo Horizonte. Possui certificações de empresas como Microsoft, Dell, VMware e HP.",
+            "Description": "Sobre o palestrante",
 
             "Social": {
 
-              "Twitter": "http://www.twitter.com/",
+              "Twitter": "www.twitter.com/",
 
+              "Website": "www.site.com.br"
+
+            }
+
+          }
+
+        },
+        
+                {
+          "SessionId": "",
           "Time": "Em Breve",
-          "Title": "Por trás do Azure - Tecnologia de Storage dos Data Centers da Microsoft",
+          "Title": "Em Breve",
 
           "Speaker": {
 
-            "Name": "Erik Filippini"
+            "Name": "Em breve",
 
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/erik.jpg",
+            "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
 
-            "Description": "Especialista em infraestrutara de TI com 8 anos de experiência na área e 5 focados em soluções de data centers para grandes empresas.Atualmente exerce a função de Engenheiro Sênior na Dell EMC, prestando suporte à soluções de data centers. Graduado em redes de computadores, MBA em gestão de projetos e inovação e com certificações: MCSA 2012/2016, MCSE x2, VCP-DCV x2, ITIL V3, entre outras.",
+            "Description": "Sobre o palestrante",
 
             "Social": {
 
-              "Twitter": "http://www.twitter.com/erik_filippini",
+              "Twitter": "www.twitter.com/",
+
+              "Website": "www.site.com.br"
+
+            }
 
           }
 
