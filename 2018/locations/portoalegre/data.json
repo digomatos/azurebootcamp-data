@@ -85,7 +85,7 @@
 
             "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/assis.jpg",
 
-            "Description": "Vinicius Assis – especialista de produtos na Dell EMC, membro do PMI-MG e fundador do grupo CAPM-Brasil, trabalha com projetos de datacenter que envolvem plataformas hiperconvegentes, Big Data, HCP e soluções de alianças Dell. Com mais 20 anos de experiência direta em TI é pós-graduado especialista em Ciência da Informação pela UFMG e bacharel em Sistemas de Informação pela União de Negócios e Administração em Belo Horizonte. Possui certificações de empresas como Microsoft, Dell, VMware e HP.",
+            "Description": "Especialista de produtos na Dell EMC, membro do PMI-MG e fundador do grupo CAPM-Brasil, trabalha com projetos de datacenter que envolvem plataformas hiperconvegentes, Big Data, HCP e soluções de alianças Dell. Com mais 20 anos de experiência direta em TI é pós-graduado especialista em Ciência da Informação pela UFMG e bacharel em Sistemas de Informação pela União de Negócios e Administração em Belo Horizonte. Possui certificações de empresas como Microsoft, Dell, VMware e HP.",
 
             "Social": {
 
@@ -205,6 +205,28 @@
             "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/marcus.jpg",
 
             "Description": "MVP Data Platform e PASS Regional, mentor responsável pelos grupos de usuários no Brasil, onde também é Pass Group Leader do SQL Server RS, especializado em infraestrutura, trabalha há mais de 10 anos com SQL Server desde a versão 2000. Mestrando em Computação Aplicada na UTFPR. Bacharel em Sistemas de Informação pela Universidade de Caxias do Sul, DBA SQL Server no Grupo Boticário.",
+
+"Social": { 
+
+            }
+
+          }
+
+        },
+        {
+          "SessionId": "DATA07",
+          "Time": "Em Breve06",
+          "Title": "Primeiros passos com Arquitetura Serverless e Azure Functions.",
+
+          "Speaker": {
+
+            "Name": "Tiago Moura",
+            
+            "Organization": "Dell",
+            
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/tiago.jpg",
+
+            "Description": "Engenheiro de software na Dell Technologies com mais de 10 anos de experiência com desenvolvimento Web. Atualmente é Certificado MCSD Web Applications e Pós-graduando em Engenharia de Software pela Unisinos. Interessado em Arquitetura de software,  plataforma .NET Core, bancos de dados, Cloud Computing e fotografia.",
 
 "Social": { 
 
