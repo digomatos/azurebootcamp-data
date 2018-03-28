@@ -97,7 +97,7 @@
         
                 {
           "SessionId": "DATA03",
-          "Time": "Em Breve02",
+          "Time": "Em Breve01",
           "Title": "Por trás do Azure - Tecnologia de Storage dos Data Centers da Microsoft",
 
           "Speaker": {
@@ -120,7 +120,7 @@
         },
                         {
           "SessionId": "DATA02",
-          "Time": "Em Breve01",
+          "Time": "Em Breve02",
           "Title": "Introdução à automação com Azure Automation",
 
           "Speaker": {
