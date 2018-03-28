@@ -235,6 +235,28 @@
           }
 
         },
+        {
+          "SessionId": "DATA08",
+          "Time": "Em Breve07",
+          "Title": "SAP e Azure - Uma combinação perfeita",
+
+          "Speaker": {
+
+            "Name": "Lucas Chies",
+            
+            "Organization": "NAPIT / MVP",
+            
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/lucas.jpg",
+
+            "Description": "MVP em Microsoft Azure, possuo +10 anos na área de Serviços em TI. Palestrante, blogueiro e líder de comunidade técnica. Atualmente sou Cloud Engenieer na NAPIT, com foco em migração para nuvem e também migração de SAP para Azure. Possuo certificações em Infraestrutura no Microsoft Azure e Virtualização do Hyper-V e System Center.Recentemente entreguei o projeto de migração de SAP no Azure, onde foi migrada a maior base de dados da America Latina.",
+
+"Social": { 
+"Twitter": "http://www.twitter.com/lchies",
+            }
+
+          }
+
+        },
         
      ]
     }
