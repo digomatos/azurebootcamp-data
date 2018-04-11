@@ -133,11 +133,13 @@
             
             "Organization": "Dell",
 
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/dell.png",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/marcel.jpg",
 
             "Description":"Formado em Sistemas de Informação pela Unijui/RS(2006), trabalha atualmente como líder de desenvolvimento na Dell Computadores, com enfase em migração e re-arquitetura de aplicações para  nuvem. Após desconfigurar o computador da família na metade dos anos 90, leu o manual inteiro do MS-DOS 5.0, sendo este seu primeiro passo na área. Certificado Microsoft desde 2003, é entuasiasta de Azure e Cloud Foundry.",
 
             "Social": {
+              
+              "Twitter": "http://www.twitter.com/marcelgol",
 
             }
 
