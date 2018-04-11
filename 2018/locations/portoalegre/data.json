@@ -75,7 +75,7 @@
           
                                 {
           "SessionId": "DATA01",
-          "Time": "9:20 - 10:00",
+          "Time": "9:20 - 09:40",
           "Title": "Azure 360",
 
           "Speaker": {
@@ -99,7 +99,7 @@
         },
                                         {
           "SessionId": "DATA02",
-          "Time": "9:20 - 10:00",
+          "Time": "9:40 - 10:00",
           "Title": "Azure 360",
 
           "Speaker": {
