@@ -292,13 +292,13 @@
 
           "Speaker": {
 
-            "Name": "Em breve",
+            "Name": "Eduardo Kieling",
             
-            "Organization": "Cloud2Go",
+            "Organization": "Teevo",
             
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/cloud2go.png",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/eduardo.png",
 
-            "Description": "EM BREVE",
+            "Description": "Especialista em infraestrutura de TI, com experiência de mais de 10 anos no mercado em empresas de médio e grande porte, sendo responsável pela implementação e administração de projetos em diversas tecnologias. Atualmente, é mestrando no curso de Computação Aplicada pela Universidade Unisinos, bacharel em Ciência de Computação pela Universidade Feevale e possui certificações nos principais players de mercado: MCSE, MCSA, EMCTAe, VCP-DCV, CCNA, ITIL V3, entre outras. Exerce a função de Especialista em Cloud Computing na empresa TEEVO S.A, sendo responsável por realizar o design e/ou implementação de soluções em Cloud Computing, armazenamento, virtualização e também outros serviços baseados em plataforma Microsoft, que podem ser em novos ambientes, migrações, upgrades e consolidações.",
 
 "Social": { 
 
