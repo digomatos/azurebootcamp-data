@@ -121,33 +121,35 @@
           }
 
         },
-                                        
-{
-          "SessionId": "DATA03",
-          "Time": "10:15 - 10:45",
-          "Title": "Por trás do Azure - Tecnologia de Storage dos Data Centers da Microsoft",
+        {
+          "SessionId": "DATA02",
+          "Time": "10:05 - 10:35",
+          "Title": "Serviços Grátis do Azure",
 
           "Speaker": {
 
-            "Name": "Erik Filippini",
+            "Name": "Marcel Goldhardt",
+            
             "Organization": "Dell",
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/erik.jpg",
 
-            "Description": "Especialista em infraestrutara de TI com 8 anos de experiência na área e 5 focados em soluções de data centers para grandes empresas.Atualmente exerce a função de Engenheiro Sênior na Dell EMC, prestando suporte à soluções de data centers.Graduado em redes de computadores, MBA em gestão de projetos e inovação e com certificações: MCSA 2012/2016, MCSE x2, VCP-DCV x2, ITIL V3, entre outras.",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/marcel.jpg",
 
-            "Social": {
+            "Description":"Formado em Sistemas de Informação pela Unijui/RS(2006), trabalha atualmente como líder de desenvolvimento na Dell Computadores, com enfase em migração e re-arquitetura de aplicações para  nuvem. Após desconfigurar o computador da família na metade dos anos 90, leu o manual inteiro do MS-DOS 5.0, sendo este seu primeiro passo na área. Certificado Microsoft desde 2003, é entuasiasta de Azure e Cloud Foundry.",
 
-              "Twitter": "http://www.twitter.com/erik_filippini",
-
+"Social": { 
+  
+  "Twitter": "http://www.twitter.com/marcelgol",
 
             }
+
 
           }
 
         },
+                                        
 {
           "SessionId": "DATA04",
-          "Time": "10:50 - 11:30",
+          "Time": "10:40 - 11:20",
           "Title": "Hiperconvergência com Dell EMC",
 
           "Speaker": {
@@ -167,22 +169,23 @@
           }
 
         },
-{
+        {
           "SessionId": "DATA05",
-          "Time": "11:30 - 12:10",
-          "Title": "Em Breve",
+          "Time": "11:25 - 12:05",
+          "Title": "Por trás do Azure - Tecnologia de Storage dos Data Centers da Microsoft",
 
           "Speaker": {
 
-            "Name": "Em Breve",
-            
+            "Name": "Erik Filippini",
             "Organization": "Dell",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/erik.jpg",
 
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/dell.png",
-
-            "Description":"Em Breve",
+            "Description": "Especialista em infraestrutara de TI com 8 anos de experiência na área e 5 focados em soluções de data centers para grandes empresas.Atualmente exerce a função de Engenheiro Sênior na Dell EMC, prestando suporte à soluções de data centers.Graduado em redes de computadores, MBA em gestão de projetos e inovação e com certificações: MCSA 2012/2016, MCSE x2, VCP-DCV x2, ITIL V3, entre outras.",
 
             "Social": {
+
+              "Twitter": "http://www.twitter.com/erik_filippini",
+
 
             }
 
