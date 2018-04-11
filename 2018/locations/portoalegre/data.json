@@ -147,31 +147,9 @@
 
         },
                                         
-{
+        {
           "SessionId": "DATA04",
           "Time": "10:40 - 11:20",
-          "Title": "Hiperconvergência com Dell EMC",
-
-          "Speaker": {
-
-            "Name": "Vinicius Assis",
-            
-            "Organization": "Dell",
-
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/assis.jpg",
-
-            "Description": "Especialista de produtos na Dell EMC, membro do PMI-MG e fundador do grupo CAPM-Brasil, trabalha com projetos de datacenter que envolvem plataformas hiperconvegentes, Big Data, HCP e soluções de alianças Dell. Com mais 20 anos de experiência direta em TI é pós-graduado especialista em Ciência da Informação pela UFMG e bacharel em Sistemas de Informação pela União de Negócios e Administração em Belo Horizonte. Possui certificações de empresas como Microsoft, Dell, VMware e HP.",
-
-            "Social": {
-
-            }
-
-          }
-
-        },
-        {
-          "SessionId": "DATA05",
-          "Time": "11:25 - 12:05",
           "Title": "Por trás do Azure - Tecnologia de Storage dos Data Centers da Microsoft",
 
           "Speaker": {
@@ -186,6 +164,28 @@
 
               "Twitter": "http://www.twitter.com/erik_filippini",
 
+
+            }
+
+          }
+
+        },
+     {
+          "SessionId": "DATA05",
+          "Time": "11:25 - 12:05",
+          "Title": "Hiperconvergência com Dell EMC",
+
+          "Speaker": {
+
+            "Name": "Vinicius Assis",
+            
+            "Organization": "Dell",
+
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/assis.jpg",
+
+            "Description": "Especialista de produtos na Dell EMC, membro do PMI-MG e fundador do grupo CAPM-Brasil, trabalha com projetos de datacenter que envolvem plataformas hiperconvegentes, Big Data, HCP e soluções de alianças Dell. Com mais 20 anos de experiência direta em TI é pós-graduado especialista em Ciência da Informação pela UFMG e bacharel em Sistemas de Informação pela União de Negócios e Administração em Belo Horizonte. Possui certificações de empresas como Microsoft, Dell, VMware e HP.",
+
+            "Social": {
 
             }
 
