@@ -74,7 +74,7 @@
         },
           
         {
-          "SessionId": "DATA01",
+          "SessionId": "DATA02",
           "Time": "9:20 - 09:40",
           "Title": "Azure 360, o que o Azure pode fazer por você!",
 
@@ -98,7 +98,7 @@
 
         },
         {
-          "SessionId": "DATA01",
+          "SessionId": "DATA02",
           "Time": "9:40 - 10:00",
           "Title": "Azure 360, o que o Azure pode fazer por você!",
 
@@ -122,7 +122,7 @@
 
          },
 {
-          "SessionId": "DATA05",
+          "SessionId": "DATA03",
           "Time": "10:05 - 10:35",
           "Title": "Serviços Grátis do Azure",
 
