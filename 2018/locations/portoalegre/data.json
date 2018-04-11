@@ -73,34 +73,10 @@
           "Title": "Abertura do evento"
         },
           
-                                {
+        {
           "SessionId": "DATA01",
           "Time": "9:20 - 09:40",
-          "Title": "Azure 360",
-
-          "Speaker": {
-
-            "Name": "Diego Matos",
-            
-            "Organization": "Grupo NGX (Cloud2Go)",
-            
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/diego.jpg",
-
-            "Description": "Trabalha a 10 anos com tecnologias Microsoft, especialista em produtos da família System Center, Azure e Office 365, possuindo diversas certificações entre elas MCSE em Private Cloud, Messaging, Productivity e Cloud Platform and Infrastructure. Atua hoje como Cloud Specialist no Grupo NGX, focado na entrega de soluções como Azure e Office365 para clientes de grande porte. A mais de 5 anos ativo na comunidade Microsoft, como participante, palestrante, contribuinte apoiando na organização de eventos",
-
-"Social": { 
-  
-  "Twitter": "http://www.twitter.com/digomatos",
-
-            }
-
-          }
-
-        },
-                                        {
-          "SessionId": "DATA02",
-          "Time": "9:40 - 10:00",
-          "Title": "Azure 360",
+          "Title": "Azure 360, o que o Azure pode fazer por você!",
 
           "Speaker": {
 
@@ -121,6 +97,31 @@
           }
 
         },
+        {
+          "SessionId": "DATA01",
+          "Time": "9:40 - 10:00",
+          "Title": "Azure 360, o que o Azure pode fazer por você!",
+
+          "Speaker": {
+
+            "Name": "Diego Matos",
+            
+            "Organization": "Grupo NGX (Cloud2Go)",
+            
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/diego.jpg",
+
+            "Description": "Trabalha a 10 anos com tecnologias Microsoft, especialista em produtos da família System Center, Azure e Office 365, possuindo diversas certificações entre elas MCSE em Private Cloud, Messaging, Productivity e Cloud Platform and Infrastructure. Atua hoje como Cloud Specialist no Grupo NGX, focado na entrega de soluções como Azure e Office365 para clientes de grande porte. A mais de 5 anos ativo na comunidade Microsoft, como participante, palestrante, contribuinte apoiando na organização de eventos",
+
+"Social": { 
+  
+  "Twitter": "http://www.twitter.com/digomatos",
+
+            }
+
+          }
+
+        },
+                                        
 {
           "SessionId": "DATA03",
           "Time": "10:15 - 10:45",
