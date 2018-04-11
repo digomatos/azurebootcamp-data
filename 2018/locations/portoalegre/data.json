@@ -72,80 +72,10 @@
           "Time": "9:00 - 9:15",
           "Title": "Abertura do evento"
         },
-        {
-          "SessionId": "DATA01",
-          "Time": "Em Breve",
-          "Title": "Hiperconvergência com Dell EMC",
-
-          "Speaker": {
-
-            "Name": "Vinicius Assis",
-            
-            "Organization": "Dell",
-
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/assis.jpg",
-
-            "Description": "Especialista de produtos na Dell EMC, membro do PMI-MG e fundador do grupo CAPM-Brasil, trabalha com projetos de datacenter que envolvem plataformas hiperconvegentes, Big Data, HCP e soluções de alianças Dell. Com mais 20 anos de experiência direta em TI é pós-graduado especialista em Ciência da Informação pela UFMG e bacharel em Sistemas de Informação pela União de Negócios e Administração em Belo Horizonte. Possui certificações de empresas como Microsoft, Dell, VMware e HP.",
-
-            "Social": {
-
-            }
-
-          }
-
-        },
-        
-                {
-          "SessionId": "DATA03",
-          "Time": "Em Breve01",
-          "Title": "Por trás do Azure - Tecnologia de Storage dos Data Centers da Microsoft",
-
-          "Speaker": {
-
-            "Name": "Erik Filippini",
-            "Organization": "Dell",
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/erik.jpg",
-
-            "Description": "Especialista em infraestrutara de TI com 8 anos de experiência na área e 5 focados em soluções de data centers para grandes empresas.Atualmente exerce a função de Engenheiro Sênior na Dell EMC, prestando suporte à soluções de data centers.Graduado em redes de computadores, MBA em gestão de projetos e inovação e com certificações: MCSA 2012/2016, MCSE x2, VCP-DCV x2, ITIL V3, entre outras.",
-
-            "Social": {
-
-              "Twitter": "http://www.twitter.com/erik_filippini",
-
-
-            }
-
-          }
-
-        },
-                        {
-          "SessionId": "DATA02",
-          "Time": "Em Breve02",
-          "Title": "Introdução à automação com Azure Automation",
-
-          "Speaker": {
-
-            "Name": "Thiago Gabriel",
-            
-            "Organization": "Dell",
-            
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/thiagog.jpg",
-
-            "Description": "Profissional de TI especialista em infraestrutura com interesse em tecnologias de ponta e automação. Trabalha com grandes ambientes corporativos a mais de 7 anos. Entusiasta da Computação na Nuvem e de como pode ser utilizada para melhorar processos de negócio e fornecer recursos de TI de maneira simplificada para todos os usuários. Sempre procura novas maneiras de automatizar e monitorar os ambientes que suporta, mantendo a alta disponibilidade para seus clientes.",
-
-            "Social": {
-
-            }
-
-          }
-
-        },
-        
-        
-
+          
                                 {
-          "SessionId": "DATA04",
-          "Time": "Em Breve03",
+          "SessionId": "DATA01",
+          "Time": "9:20 - 10:00",
           "Title": "Azure 360",
 
           "Speaker": {
@@ -168,8 +98,8 @@
 
         },
                                         {
-          "SessionId": "DATA05",
-          "Time": "Em Breve04",
+          "SessionId": "DATA02",
+          "Time": "9:20 - 10:00",
           "Title": "Azure 360",
 
           "Speaker": {
@@ -191,9 +121,81 @@
           }
 
         },
-        {
+{
+          "SessionId": "DATA03",
+          "Time": "10:15 - 10:45",
+          "Title": "Por trás do Azure - Tecnologia de Storage dos Data Centers da Microsoft",
+
+          "Speaker": {
+
+            "Name": "Erik Filippini",
+            "Organization": "Dell",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/erik.jpg",
+
+            "Description": "Especialista em infraestrutara de TI com 8 anos de experiência na área e 5 focados em soluções de data centers para grandes empresas.Atualmente exerce a função de Engenheiro Sênior na Dell EMC, prestando suporte à soluções de data centers.Graduado em redes de computadores, MBA em gestão de projetos e inovação e com certificações: MCSA 2012/2016, MCSE x2, VCP-DCV x2, ITIL V3, entre outras.",
+
+            "Social": {
+
+              "Twitter": "http://www.twitter.com/erik_filippini",
+
+
+            }
+
+          }
+
+        },
+{
+          "SessionId": "DATA04",
+          "Time": "10:50 - 11:30",
+          "Title": "Hiperconvergência com Dell EMC",
+
+          "Speaker": {
+
+            "Name": "Vinicius Assis",
+            
+            "Organization": "Dell",
+
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/assis.jpg",
+
+            "Description": "Especialista de produtos na Dell EMC, membro do PMI-MG e fundador do grupo CAPM-Brasil, trabalha com projetos de datacenter que envolvem plataformas hiperconvegentes, Big Data, HCP e soluções de alianças Dell. Com mais 20 anos de experiência direta em TI é pós-graduado especialista em Ciência da Informação pela UFMG e bacharel em Sistemas de Informação pela União de Negócios e Administração em Belo Horizonte. Possui certificações de empresas como Microsoft, Dell, VMware e HP.",
+
+            "Social": {
+
+            }
+
+          }
+
+        },
+{
+          "SessionId": "DATA05",
+          "Time": "11:30 - 12:10",
+          "Title": "Em Breve",
+
+          "Speaker": {
+
+            "Name": "Em Breve",
+            
+            "Organization": "Dell",
+
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/dell.png",
+
+            "Description":Detalhes"",
+
+            "Social": {
+
+            }
+
+          }
+
+        },
+{
+          "SessionId": "Common2",
+          "Time": "12:10 - 13:30",
+          "Title": "Almoço (Subway Box)"
+        },
+{
           "SessionId": "DATA06",
-          "Time": "Em Breve05",
+          "Time": "13:30 - 14:10",
           "Title": "Praticidade de gerenciamento e controle de recursos diretamente na nuvem.",
 
           "Speaker": {
@@ -213,31 +215,9 @@
           }
 
         },
-        {
+{
           "SessionId": "DATA07",
-          "Time": "Em Breve06",
-          "Title": "Primeiros passos com Arquitetura Serverless e Azure Functions.",
-
-          "Speaker": {
-
-            "Name": "Tiago Moura",
-            
-            "Organization": "Dell",
-            
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/tiago.jpg",
-
-            "Description": "Engenheiro de software na Dell Technologies com mais de 10 anos de experiência com desenvolvimento Web. Atualmente é Certificado MCSD Web Applications e Pós-graduando em Engenharia de Software pela Unisinos. Interessado em Arquitetura de software,  plataforma .NET Core, bancos de dados, Cloud Computing e fotografia.",
-
-"Social": { 
-
-            }
-
-          }
-
-        },
-        {
-          "SessionId": "DATA08",
-          "Time": "Em Breve07",
+          "Time": "14:15 - 14:55",
           "Title": "SAP e Azure - Uma combinação perfeita",
 
           "Speaker": {
@@ -257,7 +237,77 @@
           }
 
         },
-        
+ {
+          "SessionId": "DATA08",
+          "Time": "15:00 - 15:40",
+          "Title": "Introdução à automação com Azure Automation",
+
+          "Speaker": {
+
+            "Name": "Thiago Gabriel",
+            
+            "Organization": "Dell",
+            
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/thiagog.jpg",
+
+            "Description": "Profissional de TI especialista em infraestrutura com interesse em tecnologias de ponta e automação. Trabalha com grandes ambientes corporativos a mais de 7 anos. Entusiasta da Computação na Nuvem e de como pode ser utilizada para melhorar processos de negócio e fornecer recursos de TI de maneira simplificada para todos os usuários. Sempre procura novas maneiras de automatizar e monitorar os ambientes que suporta, mantendo a alta disponibilidade para seus clientes.",
+
+            "Social": {
+
+            }
+
+          }
+
+        },
+{
+          "SessionId": "DATA09",
+          "Time": "15:45 - 16:25",
+          "Title": "Primeiros passos com Arquitetura Serverless e Azure Functions.",
+
+          "Speaker": {
+
+            "Name": "Tiago Moura",
+            
+            "Organization": "Dell",
+            
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/tiago.jpg",
+
+            "Description": "Engenheiro de software na Dell Technologies com mais de 10 anos de experiência com desenvolvimento Web. Atualmente é Certificado MCSD Web Applications e Pós-graduando em Engenharia de Software pela Unisinos. Interessado em Arquitetura de software,  plataforma .NET Core, bancos de dados, Cloud Computing e fotografia.",
+
+"Social": { 
+
+            }
+
+          }
+
+        },
+{
+          "SessionId": "DATA10",
+          "Time": "16:25 - 17:05",
+          "Title": "Em Breve.",
+
+          "Speaker": {
+
+            "Name": "Em breve",
+            
+            "Organization": "Dell",
+            
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/cloud2go.png",
+
+            "Description": "EM BREVE",
+
+"Social": { 
+
+            }
+
+          }
+
+        },
+{
+          "SessionId": "Common3",
+          "Time": "17:05 - 17:15",
+          "Title": "Encerramento"
+        },        
      ]
     }
   ]
