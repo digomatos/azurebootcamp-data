@@ -200,17 +200,17 @@
 {
           "SessionId": "DATA06",
           "Time": "13:30 - 14:10",
-          "Title": "Praticidade de gerenciamento e controle de recursos diretamente na nuvem.",
+          "Title": "Introdução ao Azure SQL DB Managed Instances.",
 
           "Speaker": {
 
-            "Name": "Marcus Vinícius Bittencourt",
+            "Name": "Bruno Feldman da Costa",
             
-            "Organization": "Boticário / MVP",
+            "Organization": "Neogrid",
             
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/marcus.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/brunof.jpg",
 
-            "Description": "MVP Data Platform e PASS Regional, mentor responsável pelos grupos de usuários no Brasil, onde também é Pass Group Leader do SQL Server RS, especializado em infraestrutura, trabalha há mais de 10 anos com SQL Server desde a versão 2000. Mestrando em Computação Aplicada na UTFPR. Bacharel em Sistemas de Informação pela Universidade de Caxias do Sul, DBA SQL Server no Grupo Boticário.",
+            "Description": "Trabalha a mais de 10 anos com tecnologias de Banco de Dados Microsoft, passando pelas versões 6.5 até 2017 do SQL Server, possui experiência em outros SGBDs como MySQL, PostgreSQL e Netezza. Atualmente atua como Sr Database Administrator na empresa Neogrid Software. Possui certificações em SQL Server Data Platform (MCSE), Big Data Microsoft e MySQL (OCP). Participa como participante e palestrante na comunidade SQL Server desde 2015 em eventos como SQL Saturday e TDC.",
 
 "Social": { 
 
