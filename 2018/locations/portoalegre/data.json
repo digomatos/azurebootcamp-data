@@ -41,19 +41,9 @@
       "Link": "http://www.dell.com.br"
      },
     {
-      "Name": "MVP",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/mvp.png",
-      "Link": "https://mvp.microsoft.com/pt-br/"
-     },
-    {
-      "Name": "CI",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/mic.png",
-      "Link": "http://centrodeinovacao.org.br"
-     },
-    {
-      "Name": "CI",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/poli.png",
-      "Link": "http://www.pucrs.br/politecnica/"
+      "Name": "UniRitter",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/uniritter.png",
+      "Link": "https://uniritter.com.br"
      },
        ],
   "Prizes": [
