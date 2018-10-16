@@ -65,7 +65,7 @@
   ],
 "Tracks": [
     {
-      "Name": "Auditório Global - Tecnopuc",
+      "Name": "UniRitter - Campus Iguatemo",
       "Sessions": [
         {
           "SessionId": "Common1",
@@ -84,7 +84,7 @@
             
             "Organization": "Dell / MVP",
             
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/rafael.jpeg",
+            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
 
             "Description": "Entusiasta do conhecimento compartilhado, MVP da Microsoft, IT Expert em virtualização e Cloud Computing. Atua como Principal SW Engineer na Dell e é responsável por desenvolver e coordenar novas iniciativas de soluções de virtualização e Cloud Computing para a Dell IT. Bacharel em Adm de Empresas com Gestão de TI e pós graduado em gestão de equipe e liderança pela PUCRS. Rafael é líder da MSCop (Microsoft Community of Practices) na Dell.",
 
@@ -108,7 +108,7 @@
             
             "Organization": "Grupo NGX (Cloud2Go)",
             
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/diego.jpg",
+            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
 
             "Description": "Trabalha a 10 anos com tecnologias Microsoft, especialista em produtos da família System Center, Azure e Office 365, possuindo diversas certificações entre elas MCSE em Private Cloud, Messaging, Productivity e Cloud Platform and Infrastructure. Atua hoje como Cloud Specialist no Grupo NGX, focado na entrega de soluções como Azure e Office365 para clientes de grande porte. A mais de 5 anos ativo na comunidade Microsoft, como participante, palestrante, contribuinte apoiando na organização de eventos",
 
@@ -132,7 +132,7 @@
             
             "Organization": "Dell",
 
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/marcel.jpg",
+            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
 
             "Description":"Formado em Sistemas de Informação pela Unijui/RS(2006), trabalha atualmente como líder de desenvolvimento na Dell Computadores, com enfase em migração e re-arquitetura de aplicações para  nuvem. Após desconfigurar o computador da família na metade dos anos 90, leu o manual inteiro do MS-DOS 5.0, sendo este seu primeiro passo na área. Certificado Microsoft desde 2003, é entuasiasta de Azure e Cloud Foundry.",
 
@@ -156,7 +156,7 @@
 
             "Name": "Erik Filippini",
             "Organization": "Dell",
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/erik.jpg",
+            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
 
             "Description": "Especialista em infraestrutara de TI com 8 anos de experiência na área e 5 focados em soluções de data centers para grandes empresas.Atualmente exerce a função de Engenheiro Sênior na Dell EMC, prestando suporte à soluções de data centers.Graduado em redes de computadores, MBA em gestão de projetos e inovação e com certificações: MCSA 2012/2016, MCSE x2, VCP-DCV x2, ITIL V3, entre outras.",
 
@@ -181,7 +181,7 @@
             
             "Organization": "Dell",
 
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/assis.jpg",
+            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
 
             "Description": "Especialista de produtos na Dell EMC, membro do PMI-MG e fundador do grupo CAPM-Brasil, trabalha com projetos de datacenter que envolvem plataformas hiperconvegentes, Big Data, HCP e soluções de alianças Dell. Com mais 20 anos de experiência direta em TI é pós-graduado especialista em Ciência da Informação pela UFMG e bacharel em Sistemas de Informação pela União de Negócios e Administração em Belo Horizonte. Possui certificações de empresas como Microsoft, Dell, VMware e HP.",
 
@@ -208,7 +208,7 @@
             
             "Organization": "Neogrid",
             
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/brunof.jpg",
+            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
 
             "Description": "Trabalha a mais de 10 anos com tecnologias de Banco de Dados Microsoft, passando pelas versões 6.5 até 2017 do SQL Server, possui experiência em outros SGBDs como MySQL, PostgreSQL e Netezza. Atualmente atua como Sr Database Administrator na empresa Neogrid Software. Possui certificações em SQL Server Data Platform (MCSE), Big Data Microsoft e MySQL (OCP). Participa como participante e palestrante na comunidade SQL Server desde 2015 em eventos como SQL Saturday e TDC.",
 
@@ -230,7 +230,7 @@
             
             "Organization": "NAPIT / MVP",
             
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/lucas.jpg",
+            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
 
             "Description": "MVP em Microsoft Azure, possuo +10 anos na área de Serviços em TI. Palestrante, blogueiro e líder de comunidade técnica. Atualmente sou Cloud Engenieer na NAPIT, com foco em migração para nuvem e também migração de SAP para Azure. Possuo certificações em Infraestrutura no Microsoft Azure e Virtualização do Hyper-V e System Center.Recentemente entreguei o projeto de migração de SAP no Azure, onde foi migrada a maior base de dados da America Latina.",
 
@@ -252,7 +252,7 @@
             
             "Organization": "Dell",
             
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/thiagog2.jpg",
+            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
 
             "Description": "Profissional de TI especialista em infraestrutura com interesse em tecnologias de ponta e automação. Trabalha com grandes ambientes corporativos a mais de 7 anos. Entusiasta da Computação na Nuvem e de como pode ser utilizada para melhorar processos de negócio e fornecer recursos de TI de maneira simplificada para todos os usuários. Sempre procura novas maneiras de automatizar e monitorar os ambientes que suporta, mantendo a alta disponibilidade para seus clientes.",
 
@@ -274,7 +274,7 @@
             
             "Organization": "Dell",
             
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/tiago.jpg",
+            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
 
             "Description": "Engenheiro de software na Dell Technologies com mais de 10 anos de experiência com desenvolvimento Web. Atualmente é Certificado MCSD Web Applications e Pós-graduando em Engenharia de Software pela Unisinos. Interessado em Arquitetura de software,  plataforma .NET Core, bancos de dados, Cloud Computing e fotografia.",
 
@@ -292,13 +292,13 @@
 
           "Speaker": {
 
-            "Name": "Eduardo Kieling",
+            "Name": "Palestrante",
             
-            "Organization": "Teevo",
+            "Organization": "Empresa",
             
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/eduardo.jpg",
+            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
 
-            "Description": "Especialista em infraestrutura de TI, com experiência de mais de 10 anos no mercado em empresas de médio e grande porte, sendo responsável pela implementação e administração de projetos em diversas tecnologias. Atualmente, é mestrando no curso de Computação Aplicada pela Universidade Unisinos, bacharel em Ciência de Computação pela Universidade Feevale e possui certificações nos principais players de mercado: MCSE, MCSA, EMCTAe, VCP-DCV, CCNA, ITIL V3, entre outras. Exerce a função de Especialista em Cloud Computing na empresa TEEVO S.A, sendo responsável por realizar o design e/ou implementação de soluções em Cloud Computing, armazenamento, virtualização e também outros serviços baseados em plataforma Microsoft, que podem ser em novos ambientes, migrações, upgrades e consolidações.",
+            "Description": "Em Breve",
 
 "Social": { 
 
