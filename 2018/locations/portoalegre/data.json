@@ -26,6 +26,11 @@
   ],
   "Sponsors": [
     {
+      "Name": "UniRitter",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/uniritter.png",
+      "Link": "https://uniritter.com.br"
+     },
+    {
       "Name": "Cloud2Go",
       "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/cloud2go.png",
       "Link": "http://www.cloud2go.com.br"
@@ -39,11 +44,6 @@
       "Name": "MSCop",
       "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/dell.png",
       "Link": "http://www.dell.com.br"
-     },
-    {
-      "Name": "UniRitter",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/uniritter.png",
-      "Link": "https://uniritter.com.br"
      },
        ],
   "Prizes": [
