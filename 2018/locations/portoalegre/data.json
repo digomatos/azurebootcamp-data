@@ -192,7 +192,7 @@
 
           "Speaker": {
 
-            "Name": "1.	Bruna Castro Alves Zamataro",
+            "Name": "Bruna Castro Alves Zamataro",
             
             "Organization": "Sicredi",
             
@@ -207,33 +207,35 @@
           }
 
         },
-{
-          "SessionId": "Common3",
-          "Time": "12:10 - 13:30",
-          "Title": "Almoço (Subway Box) For free!"
-        },
-{
+        {
           "SessionId": "DATA07",
-          "Time": "14:15 - 14:55",
+          "Time": "11:15 - 11:45",
           "Title": "Em breve!",
 
           "Speaker": {
 
-            "Name": "Em breve!",
-            
-            "Organization": "Em breve!",
-            
-            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
+            "Name": "Erik Filippini",
+            "Organization": "Sicredi",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/erik.jpg",
 
-            "Description": "Em breve!",
+            "Description": "Especialista em infraestrutara de TI com 8 anos de experiência na área e 5 focados em soluções de data centers para grandes empresas.Atualmente exerce a função de Engenheiro Sênior na Dell EMC, prestando suporte à soluções de data centers.Graduado em redes de computadores, MBA em gestão de projetos e inovação e com certificações: MCSA 2012/2016, MCSE x2, VCP-DCV x2, ITIL V3, entre outras.",
 
-"Social": { 
+            "Social": {
+
+              "Twitter": "http://www.twitter.com/erik_filippini",
+
 
             }
 
           }
 
         },
+{
+          "SessionId": "Common3",
+          "Time": "12:10 - 13:30",
+          "Title": "Almoço (Subway Box) For free!"
+        },
+
  {
           "SessionId": "DATA08",
           "Time": "15:00 - 15:40",
