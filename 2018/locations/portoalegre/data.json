@@ -165,18 +165,18 @@
         },
      {
           "SessionId": "DATA05",
-          "Time": "11:25 - 12:05",
-          "Title": "Em breve!",
+          "Time": "10:15 - 10:45",
+          "Title": "Ferramentas de Colaboração no Microsoft 365 – OneDrive, SharePoint & Teams",
 
           "Speaker": {
 
-            "Name": "Em breve!",
+            "Name": "Eduardo Oliveira Scricco",
             
-            "Organization": "Em breve!",
+            "Organization": "Dell",
 
-            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/eduardoscricco.jpg",
 
-            "Description": "Em breve!",
+            "Description": "Eduardo é Engenheiro de Sistemas na Dell desde 2008, integrando atualmente o time de Content Management – Team Member Experience, trabalhando em diversos projetos relacionados a SharePoint, OneDrive, entre outros. Graduado em Análise de Sistemas pela PUCRS em 2002, e Pós Graduação em Redes de Computadores pela Unisinos em 2004, Eduardo tem mais de 20 anos de experiência em IT, incluidndo suporte, gerenciamento e projetos de infra estrutura. Nas horas livres, é guitarrista em algumas bandas de Blues e Rock de Porto Alegre.!",
 
             "Social": {
 
