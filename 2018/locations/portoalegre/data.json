@@ -302,11 +302,83 @@
           }
 
         },
+        {
+          "SessionId": "DATA11",
+          "Time": "15:00 - 15:30",
+          "Title": "Em Breve!",
+
+          "Speaker": {
+
+            "Name": "Em Breve!",
+            
+            "Organization": "Em Breve!",
+            
+            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
+
+            "Description": "Em Breve!",
+
+"Social": { 
+
+            }
+
+          }
+
+        },
+        
 {
           "SessionId": "Common3",
-          "Time": "17:05 - 17:15",
-          "Title": "Encerramento"
-        },        
+          "Time": "15:30 - 15:45",
+          "Title": "INTERVALO"
+        },
+                {
+          "SessionId": "DATA12",
+          "Time": "15:45 - 16:15",
+          "Title": "Em Breve!",
+
+          "Speaker": {
+
+            "Name": "Gabriel Molter",
+            
+            "Organization": "Em Breve!",
+            
+            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
+
+            "Description": "Em Breve!",
+
+"Social": { 
+
+            }
+
+          }
+
+        },
+         {
+          "SessionId": "DATA13",
+          "Time": "16:15 - 16:30",
+          "Title": "Sororidade: como podemos apoiar mulheres a ingressarem na TI?",
+
+          "Speaker": {
+
+            "Name": "Sheila Kimura",
+            
+            "Organization": "Yuugi TI",
+            
+            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
+
+            "Description": "Uma agilista apaixonada por facilitação e formação de times engajados e cheios de propósito, é Pedagoga Multimeios e Informática Educativa em sua formação base e possui, também, título em MBA em Gestão da Qualidade de Software. PACC, CSM, CSPO, M3.0 - mas, acredita que pessoas são mais importantes! Apoia fortemente mulheres a ingressarem na TI e apoia a importância da diversidade lutando por representatividade",
+
+"Social": { 
+
+            }
+
+          }
+
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "16:30 - 17:00",
+          "Title": "Encerramento (Dúvidas da tarde, Sorteio de brindes, Informações e etc.)"
+        },
      ]
     }
   ]
