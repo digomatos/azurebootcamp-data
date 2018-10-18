@@ -302,14 +302,14 @@
           }
 
         },
-        {
+           {
           "SessionId": "DATA11",
           "Time": "15:00 - 15:30",
           "Title": "Em Breve!",
 
           "Speaker": {
 
-            "Name": "Em Breve!",
+            "Name": "Gabriel Molter",
             
             "Organization": "Em Breve!",
             
@@ -330,31 +330,10 @@
           "Time": "15:30 - 15:45",
           "Title": "INTERVALO"
         },
-                {
+             
+         {
           "SessionId": "DATA12",
           "Time": "15:45 - 16:15",
-          "Title": "Em Breve!",
-
-          "Speaker": {
-
-            "Name": "Gabriel Molter",
-            
-            "Organization": "Em Breve!",
-            
-            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
-
-            "Description": "Em Breve!",
-
-"Social": { 
-
-            }
-
-          }
-
-        },
-         {
-          "SessionId": "DATA13",
-          "Time": "16:15 - 16:30",
           "Title": "Sororidade: como podemos apoiar mulheres a ingressarem na TI?",
 
           "Speaker": {
@@ -376,7 +355,7 @@
         },
         {
           "SessionId": "Common4",
-          "Time": "16:30 - 17:00",
+          "Time": "16:15 - 16:30",
           "Title": "Encerramento (Dúvidas da tarde, Sorteio de brindes, Informações e etc.)"
         },
      ]
