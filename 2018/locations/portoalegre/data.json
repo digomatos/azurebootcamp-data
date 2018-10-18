@@ -232,18 +232,18 @@
         },
 {
           "SessionId": "Common3",
-          "Time": "12:10 - 13:30",
+          "Time": "12:00 - 13:00",
           "Title": "Almoço (Subway Box) For free!"
         },
 
  {
           "SessionId": "DATA08",
-          "Time": "15:00 - 15:40",
+          "Time": "13:00 - 14:00",
           "Title": "Em breve!",
 
           "Speaker": {
 
-            "Name": "Em breve!",
+            "Name": "Elemar Junior",
             
             "Organization": "Em breve!",
             
@@ -260,18 +260,18 @@
         },
 {
           "SessionId": "DATA09",
-          "Time": "15:45 - 16:25",
+          "Time": "14:00 - 14:30",
           "Title": "Em breve!",
 
           "Speaker": {
 
-            "Name": "Em breve!",
+            "Name": "Mario Alexandre Specht",
             
-            "Organization": "Em breve!",
+            "Organization": "PUCRS",
             
             "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
 
-            "Description": "Em breve!",
+            "Description": "Arquiteto de Software PUCRS - Desenvolvedor Java - Especialista em Cloud Computing",
 
 "Social": { 
 
@@ -282,18 +282,18 @@
         },
 {
           "SessionId": "DATA10",
-          "Time": "16:25 - 17:05",
-          "Title": "Em breve!",
+          "Time": "14:30 - 15:00",
+          "Title": "Uma reflexão sobre code reviews",
 
           "Speaker": {
 
-            "Name": "Em breve!",
+            "Name": "Eduardo Brasil",
             
-            "Organization": "Em breve!",
+            "Organization": "Poatek",
             
-            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/eduardobrasil.jpg",
 
-            "Description": "Em breve!",
+            "Description": "Engenheiro de software, tem mais de 15 anos de experiência na área. Graduado em Análise e Desenvolvimento de Sistemas pela ULBRA. É entusiasta de metodologias ágeis e acredita que o Brasil é e pode ser ainda mais competitivo no mercado internacional. Atualmente atua como engenheiro de software full stack em projetos internacionais pela Poatek. Nas horas vagas curte a família e seu Xbox One X.",
 
 "Social": { 
 
