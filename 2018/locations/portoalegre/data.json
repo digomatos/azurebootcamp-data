@@ -185,25 +185,20 @@
           }
 
         },
-{
-          "SessionId": "Common3",
-          "Time": "12:10 - 13:30",
-          "Title": "Almoço (Subway Box) For free!"
-        },
-{
+        {
           "SessionId": "DATA06",
-          "Time": "13:30 - 14:10",
-          "Title": "Em breve!",
+          "Time": "10:45 - 11:15",
+          "Title": "Concentrando tarefas do SQL Server no  Microsoft Teams",
 
           "Speaker": {
 
-            "Name": "Em breve!",
+            "Name": "1.	Bruna Castro Alves Zamataro",
             
-            "Organization": "Em breve!",
+            "Organization": "Sicredi",
             
-            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/bruna.jpg",
 
-            "Description": "Em breve!",
+            "Description": "21 anos,  graduada em gestão de TI, DBA SQL Server no Sicredi e MCP SQL Server. ",
 
 "Social": { 
 
@@ -211,6 +206,11 @@
 
           }
 
+        },
+{
+          "SessionId": "Common3",
+          "Time": "12:10 - 13:30",
+          "Title": "Almoço (Subway Box) For free!"
         },
 {
           "SessionId": "DATA07",
