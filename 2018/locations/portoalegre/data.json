@@ -26,24 +26,9 @@
   ],
   "Sponsors": [
     {
-      "Name": "UniRitter",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/uniritter.png",
-      "Link": "https://uniritter.com.br"
-     },
-      {
-      "Name": "Cloud2Go",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/cloud2go.png",
-      "Link": "http://www.cloud2go.com.br"
-          },
-    {
-      "Name": "NGXit",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ngx.png",
-      "Link": "http://www.ngxit.com.br"
-       },
-            {
-      "Name": "MSCop",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/dell.png",
-      "Link": "http://www.dell.com.br"
+      "Name": "Office365",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/logo1.png",
+      "Link": "https://o365poa.azurewebsites.net"
      },
        ],
   "Prizes": [
