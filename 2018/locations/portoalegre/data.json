@@ -25,22 +25,36 @@
     }
   ],
   "Sponsors": [
+      {
+      "Name": "UniRitter",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/uniritter.png",
+      "Link": "http://www.uniritter.com.br"
+          },
     {
       "Name": "Microsoft",
       "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/microsoft_PNG20.png",
       "Link": "http://www.microsoft.com"
           },
-        {
-      "Name": "UniRitter",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/uniritter.png",
-      "Link": "http://www.uniritter.com.br"
-          },
-
     {
       "Name": "Subway",
       "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/subway-logo.png",
       "Link": "http://www.subway.com"
           },
+    {
+      "Name": "Cloud2Go",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/cloud2go.png",
+      "Link": "http://www.cloud2go.com.br"
+          },
+    {
+      "Name": "NGXit",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/ngx.png",
+      "Link": "http://www.ngxit.com.br"
+       },
+            {
+      "Name": "MSCop",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/logo_MSCop_new.png",
+      "Link": "http://www.dell.com.br"
+     },
      {
       "Name": "Interop",
       "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/interop.jpg",
