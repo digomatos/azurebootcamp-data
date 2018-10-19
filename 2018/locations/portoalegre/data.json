@@ -40,6 +40,11 @@
       "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/subway-logo.png",
       "Link": "http://www.subway.com"
           },
+     {
+      "Name": "MSCop",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/dell.png",
+      "Link": "http://www.dell.com.br"
+     },
     {
       "Name": "Cloud2Go",
       "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/cloud2go.png",
