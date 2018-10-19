@@ -30,21 +30,6 @@
       "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/uniritter.png",
       "Link": "https://uniritter.com.br"
      },
-    {
-      "Name": "Microsoft",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/microsoft_PNG20.png",
-      "Link": "http://www.microsoft.com"
-          },
-    {
-      "Name": "Subway",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/subway-logo.png",
-      "Link": "http://www.subway.com"
-          },
-     {
-      "Name": "Interop",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/interop.jpg",
-      "Link": "http://interopday.com.br"
-     },
       {
       "Name": "Cloud2Go",
       "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/cloud2go.png",
