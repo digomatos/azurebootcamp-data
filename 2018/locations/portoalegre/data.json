@@ -26,9 +26,25 @@
   ],
   "Sponsors": [
     {
-      "Name": "Office365",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/logo1.PNG",
-      "Link": "https://o365poa.azurewebsites.net"
+      "Name": "Microsoft",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/microsoft_PNG20.png",
+      "Link": "http://www.microsoft.com"
+          },
+        {
+      "Name": "UniRitter",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/uniritter.png",
+      "Link": "http://www.uniritter.com.br"
+          },
+
+    {
+      "Name": "Subway",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/subway-logo.png",
+      "Link": "http://www.subway.com"
+          },
+     {
+      "Name": "Interop",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/interop.jpg",
+      "Link": "http://interopday.com.br"
      },
        ],
   "Prizes": [
