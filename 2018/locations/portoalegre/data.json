@@ -305,17 +305,17 @@
            {
           "SessionId": "DATA11",
           "Time": "15:00 - 15:30",
-          "Title": "Em Breve!",
+          "Title": "Introdução ao Azure DevOps",
 
           "Speaker": {
 
             "Name": "Gabriel Molter",
             
-            "Organization": "Em Breve!",
+            "Organization": "Dell",
             
-            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/gabriel.jpg",
 
-            "Description": "Em Breve!",
+            "Description": "Engenheiro de Software na Dell Computadores desde 2013, suportando aplicações Globais utilizadas no mais diversos segmentos. Graduado em Sistemas para Internet e pós-graduado em Engenharia de Software pela Universidade Feevale. Organizador de vários eventos pelo Grupo de Usuários de Software Livre do Vale dos Sinos. Entuasiasta de novas técnologias e práticas no área de Desenvolvimento.",
 
 "Social": { 
 
