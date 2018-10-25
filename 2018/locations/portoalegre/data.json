@@ -56,17 +56,17 @@
         {
           "SessionId": "DATA01",
           "Time": "9:15 - 09:30",
-          "Title": "Em breve!",
+          "Title": "Como serão os escritórios no final do século 21?",
 
           "Speaker": {
 
-            "Name": "UniRitter",
+            "Name": "Marcelo Henrique Euzebio Batista",
             
-            "Organization": "Em breve!",
+            "Organization": "UniRitter",
             
-            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/marcelo_uni.jpeg",
 
-            "Description": "Em breve!",
+            "Description": "Atualmente Professor nas Graduações de TI no Senac, Univates, UniRitter e Senai na Pós-graduação em Engenharia de Redes de Computadores. Bacharel em Ciência da Computação pelo Centro Universitário La Salle (2002/2). Mestre em Computação Aplicada (PIPCA- UNISINOS) na área de concentração Modelagem e Simulação na linha de pesquisa Engenharia de Software e Linguagens de Programação. Bolsista CAPES/PROSUP (2009/1). MBA em Gestão Educacional Facos (2013). CCAI - Cisco Certified Academy Instructor #560037.",
 
 "Social": { 
   
@@ -224,17 +224,17 @@
  {
           "SessionId": "DATA08",
           "Time": "13:00 - 14:00",
-          "Title": "Em breve!",
+          "Title": "Utilizando Office 365 como componentes em aplicações para a Arquitetura Corporativa",
 
           "Speaker": {
 
             "Name": "Elemar Junior",
             
-            "Organization": "Em breve!",
+            "Organization": "ElemarJR",
             
-            "ImageUrl": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/boneco-em-resina-as-aventuras-de-tintin-e-milu-19647-01.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/elemar.png",
 
-            "Description": "Em breve!",
+            "Description": "Elemar Júnior ajuda desenvolvedores seniores, arquitetos e executivos de TI a desenvolver soluções que realmente atendem os objetivos de negócio. Com mais de 25 anos de experiência, é consultor independente, core-member no desenvolvimento do RavenDB (banco de dados noSQL), advisor em grandes empresas e diretor de tecnologia da Guiando (empresa mineira de gestão de custos  faturados). Respeitado na comunidade técnica brasileira. É conferencista nos principais eventos de tecnologia do país. Microsoft MVP há 8 anos.",
 
             "Social": {
 
@@ -246,7 +246,7 @@
 {
           "SessionId": "DATA09",
           "Time": "14:00 - 14:30",
-          "Title": "Em breve!",
+          "Title": "Chatbot's Inteligentes",
 
           "Speaker": {
 
