@@ -112,7 +112,7 @@
                                              
         {
           "SessionId": "DATA04",
-          "Time": "10:00 - 10:15",
+          "Time": "09:45 - 10:00",
           "Title": "Transformação Digital na Dell",
 
 "Speaker": {
@@ -135,7 +135,7 @@
         },
      {
           "SessionId": "DATA05",
-          "Time": "10:15 - 10:45",
+          "Time": "10:00 - 10:30",
           "Title": "Ferramentas de Colaboração no Microsoft 365 – OneDrive, SharePoint & Teams",
 
           "Speaker": {
@@ -157,7 +157,7 @@
         },
         {
           "SessionId": "DATA06",
-          "Time": "10:45 - 11:15",
+          "Time": "10:30 - 11:00",
           "Title": "Concentrando tarefas do SQL Server no  Microsoft Teams",
 
           "Speaker": {
@@ -179,21 +179,20 @@
         },
         {
           "SessionId": "DATA07",
-          "Time": "11:15 - 11:45",
-          "Title": "Em breve!",
+          "Time": "11:00 - 11:30",
+          "Title": "Criando e integrando bots com o Office365",
 
           "Speaker": {
 
-            "Name": "Erik Filippini",
-            "Organization": "Sicredi",
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/erik.jpg",
+            "Name": "Thiago Gabriel",
+            
+            "Organization": "Dell",
+            
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/thiagabriel.jpg",
 
-            "Description": "Especialista em infraestrutura de TI de grandes empresas. Atualmente exerce a função de Administrador de Aplicações no Sicredi. Graduado em redes de computadores, MBA em gestão de projetos e inovação e com certificações: MCT, MCSA 2012/2016, MCSE x2, VCP-DCV x2, ITIL V3, entre outras. Premiado como vExpert pela VMware em 2017 e 2018.",
+            "Description": "Profissional de TI especialista em infraestrutura com interesse em tecnologias de ponta e automação.Trabalha com grandes ambientes corporativos a mais de 8 anos, entusiasta da Computação na Nuvem e de como ela pode ser utilizada para melhorar processos de negócio e fornecer recursos de TI de maneira simplificada para todos os usuários.Está sempre procurando novas maneiras de automatizar e monitorar os ambientes que suporta, mantendo alta disponibilidade para todos os clientes.",
 
-            "Social": {
-
-              "Twitter": "http://www.twitter.com/erik_filippini",
-
+"Social": { 
 
             }
 
