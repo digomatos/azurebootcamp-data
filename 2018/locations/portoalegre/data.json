@@ -65,7 +65,7 @@
           
         {
           "SessionId": "DATA01",
-          "Time": "9:15 - 09:30",
+          "Time": "9:15 - 09:35",
           "Title": "Como serão os escritórios no final do século 21?",
 
           "Speaker": {
@@ -87,7 +87,7 @@
         },
         {
           "SessionId": "DATA02",
-          "Time": "9:30 - 09:45",
+          "Time": "9:35 - 09:55",
           "Title": "Key Note (Grupo NGX)",
 
           "Speaker": {
@@ -112,7 +112,7 @@
                                              
         {
           "SessionId": "DATA04",
-          "Time": "09:45 - 10:00",
+          "Time": "09:55 - 10:15",
           "Title": "Transformação Digital na Dell",
 
 "Speaker": {
@@ -135,7 +135,7 @@
         },
      {
           "SessionId": "DATA05",
-          "Time": "10:00 - 10:30",
+          "Time": "10:15 - 10:45",
           "Title": "Ferramentas de Colaboração no Microsoft 365 – OneDrive, SharePoint & Teams",
 
           "Speaker": {
@@ -157,7 +157,7 @@
         },
         {
           "SessionId": "DATA06",
-          "Time": "10:30 - 11:00",
+          "Time": "10:45 - 11:15",
           "Title": "Concentrando tarefas do SQL Server no  Microsoft Teams",
 
           "Speaker": {
@@ -179,7 +179,7 @@
         },
         {
           "SessionId": "DATA07",
-          "Time": "11:00 - 11:30",
+          "Time": "11:15 - 11:45",
           "Title": "Criando e integrando bots com o Office365",
 
           "Speaker": {
