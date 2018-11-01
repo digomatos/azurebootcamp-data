@@ -109,31 +109,7 @@
           }
 
         },
-        {
-          "SessionId": "DATA02",
-          "Time": "09:45 - 10:00",
-          "Title": "Em breve!",
-
-          "Speaker": {
-
-            "Name": "Rafael Felipe",
-            
-            "Organization": "Dell / MVP",
-            
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/rafael.jpeg",
-
-            "Description": "Entusiasta do conhecimento compartilhado, MVP da Microsoft, IT Expert em virtualização e Cloud Computing. Atua como Principal SW Engineer na Dell e é responsável por desenvolver e coordenar novas iniciativas de soluções de virtualização e Cloud Computing para a Dell IT. Bacharel em Adm de Empresas com Gestão de TI e pós graduado em gestão de equipe e liderança pela PUCRS. Rafael é líder da MSCop (Microsoft Community of Practices) na Dell.",
-
-"Social": { 
-  
-  "Twitter": "http://www.twitter.com/rfelipesilva",
-
-            }
-
-          }
-
-        },
-                                        
+                                             
         {
           "SessionId": "DATA04",
           "Time": "10:00 - 10:15",
@@ -141,17 +117,16 @@
 
 "Speaker": {
 
-            "Name": "Diego Matos",
+            "Name": "Leandro de Almeida Fernandez",
             
-            "Organization": "Grupo NGX (Cloud2Go)",
+            "Organization": "Dell",
             
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/diego.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/leandro.jpg",
 
-            "Description": "Trabalha a 10 anos com tecnologias Microsoft, especialista em produtos da família System Center, Azure e Office 365, possuindo diversas certificações entre elas MCSE em Private Cloud, Messaging, Productivity e Cloud Platform and Infrastructure. Atua hoje como Cloud Specialist no Grupo NGX, focado na entrega de soluções como Azure e Office365 para clientes de grande porte. A mais de 5 anos ativo na comunidade Microsoft, como participante, palestrante, contribuinte apoiando na organização de eventos",
+            "Description": "Leandro é engenheiro de software na Dell Financial Services desde 2009. Recentemente, Leandro está liderando a transformação digital da Dell no Brasil como o gerente do Brazil Pivotal Labs.",
 
 "Social": { 
   
-  "Twitter": "http://www.twitter.com/digomatos",
 
             }
 
