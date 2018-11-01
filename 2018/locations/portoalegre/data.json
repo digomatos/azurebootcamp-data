@@ -256,17 +256,17 @@
 {
           "SessionId": "DATA09",
           "Time": "14:00 - 14:30",
-          "Title": "Chatbot's Inteligentes",
+          "Title": "Criando e integrando bots com o Office365",
 
           "Speaker": {
 
-            "Name": "Mario Alexandre Specht",
+            "Name": "Thiago Gabriel",
             
-            "Organization": "PUCRS",
+            "Organization": "Dell",
             
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/mario.jpeg",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/thiagabriel.jpg",
 
-            "Description": "Arquiteto de Software PUCRS - Desenvolvedor Java - Especialista em Cloud Computing",
+            "Description": "Profissional de TI especialista em infraestrutura com interesse em tecnologias de ponta e automação.Trabalha com grandes ambientes corporativos a mais de 8 anos, entusiasta da Computação na Nuvem e de como ela pode ser utilizada para melhorar processos de negócio e fornecer recursos de TI de maneira simplificada para todos os usuários.Está sempre procurando novas maneiras de automatizar e monitorar os ambientes que suporta, mantendo alta disponibilidade para todos os clientes.",
 
 "Social": { 
 
