@@ -36,17 +36,7 @@
       "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/rafael.jpeg",
       "Link": "https://www.linkedin.com/in/digomatos/",
       "Name": "Rafael Felipe"
-    },
-    {
-      "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/diego.jpg",
-      "Link": "https://www.linkedin.com/in/rafaelf/",
-      "Name": "Diego Moreira Matos"
-    },
-    {
-      "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/erik.jpg",
-      "Link": "https://www.linkedin.com/in/erikfilippini/",
-      "Name": "Erik Filippini"
-    },
+    }
   ],
 "Tracks": [
     {
