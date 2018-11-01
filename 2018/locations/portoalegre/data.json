@@ -33,9 +33,19 @@
        ],
   "Prizes": [
       {
-      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
+      "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/rafael.jpeg",
       "Link": "#",
-      "Name": "Coming Soon"
+      "Name": "Rafael Felipe"
+    }
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/diego.jpg",
+      "Link": "#",
+      "Name": "Diego Moreira Matos"
+    }
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/erik.jpg",
+      "Link": "#",
+      "Name": "Erik Filippini"
     }
   ],
 "Tracks": [
