@@ -11,7 +11,7 @@
 
   "Callout": {
     "Text": "Inscreva-se para este evento!",
-    "Link": "https://www.eventbrite.com/e/global-office-365-developer-bootcamp-porto-alegrers-tickets-51430081759",
+    "Link": "https://www.eventbrite.com/e/global-microsoft-365-developer-bootcamp-porto-alegre-brazil-tickets-71693476117?aff=ebdssbdestsearch",
     "Type": "default"
   },
   "Callspeakers": {
@@ -27,7 +27,7 @@
   "Sponsors": [
       {
       "Name": "UniRitter",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/logo2.png",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/logonova.png",
       "Link": "http://www.uniritter.com.br"
           },
        ],
