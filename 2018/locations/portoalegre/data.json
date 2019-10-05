@@ -6,12 +6,12 @@
     "Name": "Porto Alegre",
     "Latitude": -30.024234,
     "Longitude": -51.162269,
-    "Address": "Umov.me Arena"
+    "Address": "Campus Iguatemi - UniRitter"
   },
 
   "Callout": {
     "Text": "Inscreva-se para este evento!",
-    "Link": "https://www.eventbrite.com/e/global-microsoft-365-developer-bootcamp-porto-alegre-brazil-tickets-71693476117?aff=ebdssbdestsearch",
+    "Link": "https://www.eventbrite.com/e/global-office-365-developer-bootcamp-porto-alegrers-tickets-51430081759",
     "Type": "default"
   },
   "Callspeakers": {
@@ -26,9 +26,9 @@
   ],
   "Sponsors": [
       {
-      "Name": "Umov.me Arena",
-      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/logonova.png",
-      "Link": "http://www.umov.me"
+      "Name": "UniRitter",
+      "Image": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/logo2.png",
+      "Link": "http://www.uniritter.com.br"
           },
        ],
   "Prizes": [
@@ -41,6 +41,11 @@
       "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/diego.jpg",
       "Link": "https://www.linkedin.com/in/digomatos/",
       "Name": "Diego Matos "
+    },
+     {
+      "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/erik.jpg",
+      "Link": "https://www.linkedin.com/in/erikfilippini/",
+      "Name": "Erik Filippini"
     }
   ],
 "Tracks": [
