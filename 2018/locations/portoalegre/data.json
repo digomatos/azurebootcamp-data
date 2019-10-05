@@ -1,5 +1,5 @@
 {
-  "EventData": {
+  "EventData"
     "Date": "10-11-2018"
   },
   "Location": {
@@ -41,16 +41,11 @@
       "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/diego.jpg",
       "Link": "https://www.linkedin.com/in/digomatos/",
       "Name": "Diego Matos "
-    },
-     {
-      "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/erik.jpg",
-      "Link": "https://www.linkedin.com/in/erikfilippini/",
-      "Name": "Erik Filippini"
     }
   ],
 "Tracks": [
     {
-      "Name": "UniRitter - Campus Iguatemi",
+      "Name": "Umov.me Arena",
       "Sessions": [
         {
           "SessionId": "Common1",
