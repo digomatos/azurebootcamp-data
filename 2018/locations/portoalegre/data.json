@@ -85,21 +85,19 @@
         {
           "SessionId": "DATA02",
           "Time": "9:35 - 09:55",
-          "Title": "Em breve",
+          "Title": "SharePoint Online - Criando e Customizando Team & Collaboration Sites e Conectando a Organização com Hub Sites",
 
           "Speaker": {
 
-            "Name": "Em breve",
+            "Name": "Eduardo Oliveira Scricco",
             
-            "Organization": "Grupo NGX (Cloud2Go)",
-            
-            "ImageUrl": "https://rihappy.vteximg.com.br/arquivos/ids/328698-800-800/boneco-authenticgames-35-cm-zr-toys-C3027_Frente.jpg",
+            "Organization": "Dell",
 
-            "Description": "Em breve",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/eduardoscricco.jpg",
 
-"Social": { 
-  
+            "Description": "Eduardo é Engenheiro de Sistemas na Dell desde 2008, integrando atualmente o time de Content Management – Team Member Experience, trabalhando em diversos projetos relacionados a SharePoint, OneDrive, entre outros. Graduado em Análise de Sistemas pela PUCRS em 2002, e Pós Graduação em Redes de Computadores pela Unisinos em 2004, Eduardo tem mais de 20 anos de experiência em IT, incluidndo suporte, gerenciamento e projetos de infra estrutura. Nas horas livres, é guitarrista em algumas bandas de Blues e Rock de Porto Alegre.!",
 
+            "Social": {
 
             }
 
