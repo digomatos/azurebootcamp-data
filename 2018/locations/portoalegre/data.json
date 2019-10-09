@@ -108,20 +108,19 @@
         {
           "SessionId": "DATA04",
           "Time": "09:55 - 10:15",
-          "Title": "Em breve",
+          "Title": "Criando e integrando chatbots profissionais com o Microsoft Teams",
 
-"Speaker": {
+          "Speaker": {
 
-            "Name": "Em breve",
+            "Name": "Thiago Gabriel",
             
-            "Organization": "Em breve",
+            "Organization": "Dell",
             
-            "ImageUrl": "https://rihappy.vteximg.com.br/arquivos/ids/328698-800-800/boneco-authenticgames-35-cm-zr-toys-C3027_Frente.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/thiagabriel.jpg",
 
-            "Description": "Em breve",
+            "Description": "Profissional de TI especialista em infraestrutura com interesse em tecnologias de ponta e automação.Trabalha com grandes ambientes corporativos a mais de 8 anos, entusiasta da Computação na Nuvem e de como ela pode ser utilizada para melhorar processos de negócio e fornecer recursos de TI de maneira simplificada para todos os usuários.Está sempre procurando novas maneiras de automatizar e monitorar os ambientes que suporta, mantendo alta disponibilidade para todos os clientes.",
 
 "Social": { 
-  
 
             }
 
