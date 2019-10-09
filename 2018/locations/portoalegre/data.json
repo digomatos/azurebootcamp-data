@@ -61,20 +61,22 @@
         {
           "SessionId": "DATA01",
           "Time": "9:15 - 09:35",
-          "Title": "Em breve",
+          "Title": "Key Note (Grupo NGX)",
 
           "Speaker": {
 
-            "Name": "Em breve",
+            "Name": "William Tavares",
             
-            "Organization": "Em breve",
+            "Organization": "Grupo NGX (Cloud2Go)",
             
-            "ImageUrl": "https://rihappy.vteximg.com.br/arquivos/ids/328698-800-800/boneco-authenticgames-35-cm-zr-toys-C3027_Frente.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/william.jpg",
 
-            "Description": "Em breve",
+            "Description": "Atuando na área de TI há aproximadamente 15 anos, William Tavares possui passagens pela indústria e por empresas do segmento financeiro (transações eletrônicas), incluindo Zamprogna Usiminas e GetNet. Foi líder de projetos pioneiros de segurança da informação no sul do país, participando das primeiras certificações ISO 27001 e PCI-DSS no estado. Como gestor, teve forte atuação em reestruturação de equipes, redesenho de processos e adequação tecnológica, que a apoiaram a expansão de negócios da Elo Sistemas Eletrônicos e NGXit. Atualmente é Diretor de Serviços no Grupo NGX, posição na qual tem como objetivo promover a inovação direcionada a novos modelos de serviço, além de garantir a excelência do atendimento aos clientes.",
 
 "Social": { 
   
+
+
             }
 
           }
