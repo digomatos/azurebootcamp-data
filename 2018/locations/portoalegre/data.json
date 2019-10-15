@@ -60,7 +60,7 @@
           
         {
           "SessionId": "DATA01",
-          "Time": "9:15 - 09:35",
+          "Time": "9:15 - 09:50",
           "Title": "Key Note (Grupo NGX)",
 
           "Speaker": {
@@ -84,7 +84,7 @@
         },
         {
           "SessionId": "DATA02",
-          "Time": "9:35 - 09:55",
+          "Time": "9:55 - 10:55",
           "Title": "SharePoint Online - Criando e Customizando Team & Collaboration Sites e Conectando a Organização com Hub Sites",
 
           "Speaker": {
@@ -107,7 +107,7 @@
                                              
         {
           "SessionId": "DATA04",
-          "Time": "09:55 - 10:15",
+          "Time": "10:55 - 11:55",
           "Title": "Criando e integrando chatbots profissionais com o Microsoft Teams",
 
           "Speaker": {
@@ -143,50 +143,6 @@
             "Description": "Engenheiro de Software na Dell Computadores, membro do time de DevOps Tools e responsável pela migração de aplicações para o Gitlab no Brasil. Após desconfigurar o computador da família na metade dos anos 90, leu o manual inteiro do MS-DOS 5.0, sendo este seu primeiro passo na área. Trabalhando profissinalmente com tecnologia desde 1998, conquistou sua primeira certificação Microsoft em 2003. Formado em Sistemas de Informação pela Unijuí/RS (2006), possui experiência em infrastrutura e desenvolvimento web, sendo grande entuasista de Cloud Computing, especialmente Azure.",
 
             "Social": {
-
-            }
-
-          }
-
-        },
-        {
-          "SessionId": "DATA06",
-          "Time": "10:45 - 11:15",
-          "Title": "Em breve",
-
-          "Speaker": {
-
-            "Name": "Em breve",
-            
-            "Organization": "Em breve",
-            
-            "ImageUrl": "https://rihappy.vteximg.com.br/arquivos/ids/328698-800-800/boneco-authenticgames-35-cm-zr-toys-C3027_Frente.jpg",
-
-            "Description": "Em breve ",
-
-"Social": { 
-
-            }
-
-          }
-
-        },
-        {
-          "SessionId": "DATA07",
-          "Time": "11:15 - 11:45",
-          "Title": "Em breve",
-
-          "Speaker": {
-
-            "Name": "Em breve",
-            
-            "Organization": "Em breve",
-            
-            "ImageUrl": "https://rihappy.vteximg.com.br/arquivos/ids/328698-800-800/boneco-authenticgames-35-cm-zr-toys-C3027_Frente.jpg",
-
-            "Description": "Em breve",
-
-"Social": { 
 
             }
 
