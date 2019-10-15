@@ -127,9 +127,16 @@
           }
 
         },
-     {
+     
+{
+          "SessionId": "Common3",
+          "Time": "12:00 - 13:00",
+          "Title": "Almoço (Subway Box) For free!"
+        },
+
+ {
           "SessionId": "DATA05",
-          "Time": "10:15 - 10:45",
+          "Time": "13:00 - 14:00",
           "Title": "Microsoft Graph API – Primeiros Passos",
 
           "Speaker": {
@@ -141,34 +148,6 @@
             "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/marcel.jpg",
 
             "Description": "Engenheiro de Software na Dell Computadores, membro do time de DevOps Tools e responsável pela migração de aplicações para o Gitlab no Brasil. Após desconfigurar o computador da família na metade dos anos 90, leu o manual inteiro do MS-DOS 5.0, sendo este seu primeiro passo na área. Trabalhando profissinalmente com tecnologia desde 1998, conquistou sua primeira certificação Microsoft em 2003. Formado em Sistemas de Informação pela Unijuí/RS (2006), possui experiência em infrastrutura e desenvolvimento web, sendo grande entuasista de Cloud Computing, especialmente Azure.",
-
-            "Social": {
-
-            }
-
-          }
-
-        },
-{
-          "SessionId": "Common3",
-          "Time": "12:00 - 13:00",
-          "Title": "Almoço (Subway Box) For free!"
-        },
-
- {
-          "SessionId": "DATA08",
-          "Time": "13:00 - 14:00",
-          "Title": "Em breve",
-
-          "Speaker": {
-
-            "Name": "Em breve",
-            
-            "Organization": "Em breve",
-            
-            "ImageUrl": "https://rihappy.vteximg.com.br/arquivos/ids/328698-800-800/boneco-authenticgames-35-cm-zr-toys-C3027_Frente.jpg",
-
-            "Description": "Em breve",
 
             "Social": {
 
@@ -220,58 +199,7 @@
 
           }
 
-        },
-           {
-          "SessionId": "DATA11",
-          "Time": "15:00 - 15:30",
-          "Title": "Em breve",
-
-          "Speaker": {
-
-            "Name": "Em breve",
-            
-            "Organization": "Em breve",
-            
-            "ImageUrl": "https://rihappy.vteximg.com.br/arquivos/ids/328698-800-800/boneco-authenticgames-35-cm-zr-toys-C3027_Frente.jpg",
-
-            "Description": "Em breve",
-
-"Social": { 
-
-            }
-
-          }
-
-        },
-        
-{
-          "SessionId": "Common3",
-          "Time": "15:30 - 15:45",
-          "Title": "INTERVALO"
-        },
-             
-         {
-          "SessionId": "DATA12",
-          "Time": "15:45 - 16:15",
-          "Title": "Em breve?",
-
-          "Speaker": {
-
-            "Name": "Em breve",
-            
-            "Organization": "Em breve",
-            
-            "ImageUrl": "https://rihappy.vteximg.com.br/arquivos/ids/328698-800-800/boneco-authenticgames-35-cm-zr-toys-C3027_Frente.jpg",
-
-            "Description": "Em breve",
-
-"Social": { 
-
-            }
-
-          }
-
-        },
+        },        
         {
           "SessionId": "Common4",
           "Time": "16:15 - 16:30",
