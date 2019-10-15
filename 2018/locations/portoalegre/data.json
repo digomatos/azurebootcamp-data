@@ -167,7 +167,7 @@
             
             "Organization": "NGXit",
             
-            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/leandro_ngx.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/leandro_ngx.jpeg",
 
             "Description": "Atua há mais de 15 anos com Tecnologia da Informação, contribuindo nos últimos anos na gestão de times. Ele é formado em Sistemas de Informação pela PUCRS e pós-graduando em Gestão de Projetos pelo IBGEN. Atualmente é Gerente de Projetos no Grupo NGX, liderando iniciativas de infraestrutura, segurança e cloud em grandes empresas da Região Sul.",
 
@@ -180,18 +180,18 @@
         },
 {
           "SessionId": "DATA10",
-          "Time": "14:30 - 15:00",
-          "Title": "Em breve",
+          "Time": "15:00 - 16:00",
+          "Title": "Trabalhando de forma inteligente com o Microsoft Flow",
 
           "Speaker": {
 
-            "Name": "Em breve",
+            "Name": "Lucas Chies",
             
-            "Organization": "Em breve",
+            "Organization": "CloudCM",
             
-            "ImageUrl": "https://rihappy.vteximg.com.br/arquivos/ids/328698-800-800/boneco-authenticgames-35-cm-zr-toys-C3027_Frente.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/LucasChies.jpg",
 
-            "Description": "Em breve",
+            "Description": "Apaixonado por Cloud Computing, atualmente sou CTO da CloudCM, consultoria com foco em Cloud Computing. Possuo ampla experiência nas soluções de computação em nuvem, com certificações na áre, sou MVP Reconnect (Microsoft Most Valuable Professional). Entreguei grandes projetos de Nuvem, como SAP/Oracle, Microsoft AX, Gestão de Custos e Consumos, entre outros. Alcancei meu maior desafio, gerenciando as clouds globais, da maior cervejaria do mundo, a Anheuser-Busch InBev. Sou entusiasta de IaC utilizando Ansible, Terraform, Azure DevOps entre outros. Também faço palestras e contribuições para comunidade técnica.",
 
 "Social": { 
 
@@ -202,7 +202,7 @@
         },        
         {
           "SessionId": "Common4",
-          "Time": "16:15 - 16:30",
+          "Time": "16:00 - 16:30",
           "Title": "Encerramento (Dúvidas da tarde, Sorteio de brindes, Informações e etc.)"
         },
      ]
