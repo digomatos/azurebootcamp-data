@@ -158,18 +158,18 @@
         },
 {
           "SessionId": "DATA09",
-          "Time": "14:00 - 14:30",
-          "Title": "Em Breve!",
+          "Time": "14:00 - 15:00",
+          "Title": "Colaboração em projetos com Microsoft Teams",
 
           "Speaker": {
 
-            "Name": "Em Breve!",
+            "Name": "Leandro Rowedder de Oliveira",
             
-            "Organization": "Em Breve!",
+            "Organization": "NGXit",
             
-            "ImageUrl": "https://rihappy.vteximg.com.br/arquivos/ids/328698-800-800/boneco-authenticgames-35-cm-zr-toys-C3027_Frente.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/digomatos/azurebootcamp-data/master/2018/images/leandro_ngx.jpg",
 
-            "Description": "Em Breve!",
+            "Description": "Atua há mais de 15 anos com Tecnologia da Informação, contribuindo nos últimos anos na gestão de times. Ele é formado em Sistemas de Informação pela PUCRS e pós-graduando em Gestão de Projetos pelo IBGEN. Atualmente é Gerente de Projetos no Grupo NGX, liderando iniciativas de infraestrutura, segurança e cloud em grandes empresas da Região Sul.",
 
 "Social": { 
 
